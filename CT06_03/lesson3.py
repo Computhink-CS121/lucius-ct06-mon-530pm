@@ -26,7 +26,7 @@ print(answer)
 wallet = 100
 print(wallet/4)
 
-# calculate and print the result of (3 + 4)
+# calculate and print the result of (3 + 4) * 5 
 
 
 
