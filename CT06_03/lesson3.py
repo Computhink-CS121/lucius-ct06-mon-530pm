@@ -1,5 +1,5 @@
 print("Hello from lesson 3")
-age
+age=12
 
 
 
