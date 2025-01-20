@@ -16,7 +16,7 @@ a = 9
 b = 88
 print(a+b)
 
-# task3b
-
+# task 3b
+num1 = -
 
 
