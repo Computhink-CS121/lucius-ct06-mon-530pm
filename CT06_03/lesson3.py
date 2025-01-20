@@ -22,8 +22,8 @@ num2 = 50
 answer = answer * 3
 print(answer)
 
-#
-
+#task 3C
+wallet = 100
 
 
 
