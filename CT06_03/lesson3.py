@@ -20,4 +20,4 @@ print(a+b)
 num1 = -10
 num2 = 50
 answer = answer * 3
-
+print(answer)
