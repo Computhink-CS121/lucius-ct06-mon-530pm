@@ -1,6 +1,6 @@
 
 myage=12
-print()
+print(myage)
 
 # task 1B
 print(20 )
