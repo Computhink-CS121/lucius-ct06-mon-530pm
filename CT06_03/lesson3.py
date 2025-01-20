@@ -26,7 +26,7 @@ print(answer)
 wallet = 100
 print(wallet/4)
 
-# caculate
+# calculate
 
 
 
