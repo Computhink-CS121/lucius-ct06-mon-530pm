@@ -28,7 +28,7 @@ print(wallet/4)
 
 # calculate and print the result of (3 + 4) * 5 ] - (10 / 2).
 
-
+#(3 + 4) * 5 - (10 / 2) 
 
 
 
