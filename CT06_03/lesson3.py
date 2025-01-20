@@ -8,7 +8,7 @@ print(20 )
 
 variable1 = 3
 variable1 = 5
-5 + 3 = 8
+# 5 + 3 = 8
 
 # create variable(a)
 a = 9
