@@ -1,4 +1,4 @@
-print(age=12)
+print(myage=12)
 
 
 
