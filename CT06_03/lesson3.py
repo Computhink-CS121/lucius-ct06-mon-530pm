@@ -24,7 +24,7 @@ print(answer)
 
 #task 3C
 wallet = 100
-
+print(wallet/4)
 
 
 
