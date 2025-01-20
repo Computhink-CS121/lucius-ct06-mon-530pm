@@ -16,7 +16,7 @@ a = 9
 b = 88
 print(a+b)
 
-# print (subtract 10 from 50 then mutipl
+# create new variblesubtract 10 from 50 then mutipl
 
 
 
