@@ -1,6 +1,6 @@
-print("Hello from lesson 4")33
-
-
+print("Hello from lesson 4")
+name = input("what is your name? ")
+print("Hey, "+ name)
 
 
 
