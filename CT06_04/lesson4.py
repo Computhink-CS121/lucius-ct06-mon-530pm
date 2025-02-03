@@ -23,14 +23,16 @@
 # current_year = 2025
 # age = currect year = 2025
 user_name = input("what is your name?")
-user_
+user_name = 
 
 
 
 
-
-
-
+#print(Happy <69> birthday Freddy! I hope you get a walking stick fast!)
+for count in range(1000):
+    print("I will not sling mud at my friend ever!")
+    print("Teacher!")
+      
 
 
 
