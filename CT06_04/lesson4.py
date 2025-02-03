@@ -22,8 +22,8 @@
 # year_born = int(year_born)
 # current_year = 2025
 # age = currect year = 2025
-user_name = input("what is your name")
-
+user_name = input("what is your name?")
+user_
 
 
 
