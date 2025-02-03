@@ -14,7 +14,7 @@
 
 ## Task 6: Age and Name Concatenation
 
-#Assign a name to the vari
+#Assign a name to the variable 
 
 
 
