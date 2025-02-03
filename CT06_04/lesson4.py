@@ -15,7 +15,7 @@
 ## Task 6: Age and Name Concatenation
 
 #Assign a name to the variable "user_name"
-#Assign an i
+#Assign an integer to the variable 
 
 
 # year_born = input("what year are you born")
