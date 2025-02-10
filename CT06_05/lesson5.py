@@ -1,5 +1,5 @@
 print("Hello from lesson 5")
-print 
+for number in range(1, 6):
 
 
 
