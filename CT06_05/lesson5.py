@@ -10,12 +10,12 @@ for number in range(51, 101):
 #     print(number)
 
 
-for number in range(1, 5, 1): 
-    print(number)
+# for number in range(1, 5, 1): 
+#     print(number)
 
 
-for number in range(51, 101, 1): 
-    print(number)
+# for number in range(51, 101, 1): 
+#     print(number)
 
 ## Task 5: range(start, stop)
 
@@ -32,7 +32,7 @@ for number in range(51, 101, 1):
 
 # **Task 5c**:
 # Print numbers from 18 to 29 using a 'for' loop.
-
+range()
 
 
 
