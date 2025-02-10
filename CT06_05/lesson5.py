@@ -26,8 +26,8 @@
 
 # **Task 5b**:
 # Print numbers from 51 to 100 using a 'for' loop.
-
-
+for i in range(51, 101):
+    print
 
 
 # **Task 5c**:
