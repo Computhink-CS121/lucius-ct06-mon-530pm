@@ -60,6 +60,7 @@ for i in range(5, 0, -1):
 #     2
 #     1
 
+print( 'ready!')
 for i in range(3, 0, -1):
     print(i)
 
