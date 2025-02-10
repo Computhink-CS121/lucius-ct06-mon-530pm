@@ -32,7 +32,7 @@ for number in range(51, 101):
 
 # **Task 5c**:
 # Print numbers from 18 to 29 using a 'for' loop.
-range()
+range(18, )
 
 
 
