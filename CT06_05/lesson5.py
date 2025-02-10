@@ -31,11 +31,12 @@ for number in range(51, 101):
 
 
 # **Task 5c**:
-
-range(18, 30)
-
-
 # Print numbers from 18 to 29 using a 'for' loop.
+for i in range(18, 30):
+    print(i)
+
+
+
 
 
 
