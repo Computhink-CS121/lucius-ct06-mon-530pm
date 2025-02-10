@@ -1,9 +1,9 @@
-print("Hello from lesson 5")
-for number in range(1, 6): 
-    print(number)
+# print("Hello from lesson 5")
+# for number in range(1, 6): 
+#     print(number)
 
-for number in range(51, 101): 
-    print(number)
+# for number in range(51, 101): 
+#     print(number)
       
 
 # for  in range(18, 30):
