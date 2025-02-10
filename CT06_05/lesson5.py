@@ -6,7 +6,7 @@ for number in range(51, 101):
     print(number)
       
 
-for 30 in range(18, 30):
+for number in range(18, 30):
     print(number)
 
 
