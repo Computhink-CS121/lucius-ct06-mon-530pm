@@ -40,6 +40,7 @@ for i in range(18, 30):
 
 # Use a 'for' loop to print numbers from 2 to 24 in multiples of 2.
 
+
 # **Task 6b**:
 # Use a 'for' loop to print numbers from 8 to 96 in multiples of 8.
 
