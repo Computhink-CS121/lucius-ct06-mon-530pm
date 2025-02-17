@@ -19,7 +19,7 @@
 
 
 for i in range(3):
-    Print("Hello, World!")
+    print("Hello, World!")
 
 
 
