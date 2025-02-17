@@ -2,8 +2,8 @@ print("Hello from lesson 6")
 
 
 
-
-sumscore(0)
+numstudents(0)
+sumscore(0)(intput)
 
 
 
