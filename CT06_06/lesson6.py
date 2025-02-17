@@ -1,17 +1,21 @@
-print("Hello from lesson 6")
 
 
 
-sumscore = 0
-sumscore=(0)(int)(intput("How many students do you have?"))
+# from venv import create
 
-first (student)
+# numstud = 100
+# print(i)
+# sumscore = 0
+# numscore=(0)(int)(intput("How many students do you have?"))
 
+# for i in range (numscore)
 
+# for i in range(numscore):
+#     score = int(input("How much did this student score"))
+#     sumscore = sumscore + score
 
-
-
-
+# print(sumScore / numStud)
+# print(result of sumscore / numstud)
 
 
 
