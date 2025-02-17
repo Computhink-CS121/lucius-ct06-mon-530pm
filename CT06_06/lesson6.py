@@ -46,6 +46,8 @@ print(Alice)
 
 
 
+x = 5
+print(x)
 
 
 
