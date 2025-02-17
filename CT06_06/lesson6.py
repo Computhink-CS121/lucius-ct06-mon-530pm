@@ -3,7 +3,7 @@ print("Hello from lesson 6")
 
 
 
-sumscore
+sumscore(0)
 
 
 
