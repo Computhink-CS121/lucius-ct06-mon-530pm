@@ -52,7 +52,8 @@ print(5)
 print("Hello, World!")
 
 
-
+age = 25
+print(age + 1)
 
 
 
