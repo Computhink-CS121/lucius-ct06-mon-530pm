@@ -18,8 +18,8 @@
 # print(result of sumscore / numstud)
 
 
-
-
+for i in range(3):
+    Print
 
 
 
