@@ -3,7 +3,7 @@ print("Hello from lesson 6")
 
 
 numstudents(0)
-sumscore(0)(intput)
+sumscore(0)int)(intput)
 
 
 
