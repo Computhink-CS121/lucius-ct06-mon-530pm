@@ -47,7 +47,7 @@ print(Alice)
 
 
 x = 5
-print(x)
+print(5)
 
 
 
