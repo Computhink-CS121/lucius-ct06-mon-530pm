@@ -39,7 +39,7 @@ ifscc = 5
 
 print ("Hello, World!")
 
-print(age)
+print(69)
 
 
 
