@@ -29,6 +29,10 @@
 
 
 
+"What word would you like to repeat?" "burger"
+"How many times would you like to repeat?" "3"
+
+
 
 
 
