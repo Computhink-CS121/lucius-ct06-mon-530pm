@@ -41,7 +41,7 @@
 
 word = input("What is your name?") 
 number_n = int(input("How many times would you like to repeat?")) 
-for n in range (str("the amount of times i would like to repeat")):
+for n in range (69):
     print(word)
 
 
