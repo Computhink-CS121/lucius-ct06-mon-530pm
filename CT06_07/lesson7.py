@@ -33,7 +33,7 @@ input("What word would you like to repeat?") ("burger")
 input("How many times would you like to repeat?") ("3")
 
 word = input("give me a word")
-number_
+number_n = int()
 
 
 
