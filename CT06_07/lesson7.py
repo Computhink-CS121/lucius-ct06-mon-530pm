@@ -39,6 +39,8 @@ for n in range(3):
 
 
 
+word = input("What is your name?") 
+#How many times would you like to repeat? << 3 >>
 
 
 
