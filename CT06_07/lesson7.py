@@ -21,7 +21,7 @@
 
 for i in range(10):
     print (i)
-print ("2 to 21")
+print ("2 21")
 
 
 
