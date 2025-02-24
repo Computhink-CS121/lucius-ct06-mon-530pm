@@ -19,9 +19,9 @@
 
 
 
-for i in range(10):
+for i in range(2,20,2):
     print (i)
-print ("2 2k,y.kivhliylvyky1")
+
 
 
 
