@@ -29,7 +29,7 @@
 
 
 
-input("What word would you like to repeat?") ("burger")
+input("What word would you like to repeat?") ("")
 input("How many times would you like to repeat?") ("3")
 
 
