@@ -21,7 +21,7 @@
 
 for i in range(10):
     print (i)
-    print  (69)
+    print  (2)
 
 
 
