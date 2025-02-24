@@ -34,8 +34,8 @@ input("How many times would you like to repeat?") ("3")
 
 word = input("give me a word")
 number_n = int(input("give me a number"))
-
-
+for n in range(3):
+    print()
 
 
 
