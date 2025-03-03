@@ -1,7 +1,6 @@
 print (i)
 for (i) in range:
-    int(intput)
-
+    int()
 
 
 
