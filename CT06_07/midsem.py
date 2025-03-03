@@ -2,7 +2,7 @@
 name = input("what is your name?")  
 print("Nice to meet you, Andy!")  
 
-#i am trying to create a code that asks
+#i am trying to create a code that asks the user wh
 
 
 
