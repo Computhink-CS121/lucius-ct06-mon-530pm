@@ -33,7 +33,7 @@ for i in range (7,0,-3):
 name = input("what is the start, end, and increment")
 for i in range (0,78,7):
     print(i)
-#i am trying to create a code that asks a user when he wants he start, end, and increment
+#i am trying to create a code that asks a user when he wants he start, end, and increment then print it out
 
 
 
