@@ -1,8 +1,7 @@
 name = input("what is your name?") 
 if input is ("andy"):
     print("Nice to meet you, Andy!")
-if input is ("Brenda"):
-    print("Nice to meet you, Brenda!")
+
 
 
 
