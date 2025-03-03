@@ -7,7 +7,7 @@ if name is (Brenda):
 
 
 name = input("what is your name")
-print("hi Charile")
+print("hi Charlie")
 
 
 
