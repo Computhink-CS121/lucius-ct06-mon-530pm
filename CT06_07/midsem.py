@@ -1,7 +1,6 @@
-name = input("what is your name?") 
-if name is ("andy"):
-    print("Nice to meet you, Andy!")
-
+name = input("what is your name?")
+print("Nice to meet you, Andy!")
+    
 
 
 
