@@ -6,8 +6,7 @@ if input is ("Brenda"):
 
 
 
-name = input("what is your name")
-print("hi Charlie")
+
 
 
 
