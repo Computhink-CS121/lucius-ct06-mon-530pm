@@ -11,7 +11,7 @@ for i in range(4,11,2):
     print (i)
 
 
-
+name = input("what is the start, end, and `increment")
 
 
 
