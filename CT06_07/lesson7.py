@@ -51,9 +51,9 @@ for n in range (69):
 word = input("What is number 1?") 
 word = input("What is number 2?")
 word = input("What is number 3?") 
-word = input("What is number 4? ")
+word = input("What is number 4?")
 word = input("What is number 5?") 
-
+for i in range add the sum of number 1
 
 
 
