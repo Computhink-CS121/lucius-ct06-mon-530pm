@@ -7,7 +7,7 @@ for count in range(5):
     num = int(num)
     product = product * num
 
-oprint("the final result is " + str)
+oprint("the final result is " + str(product))
 
 
 
