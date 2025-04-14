@@ -14,7 +14,7 @@ word = "something"
 for letter in word:
     print(letter)
 
-input("tell me day of week")
+input("tell me a number")
 
 
 
