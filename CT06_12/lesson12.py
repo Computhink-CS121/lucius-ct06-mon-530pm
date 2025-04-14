@@ -35,7 +35,8 @@ print("Hello from lesson 12")
 
 
 counter = 0
-whike3
+while counter < 50:
+    increase 
 
 
 
