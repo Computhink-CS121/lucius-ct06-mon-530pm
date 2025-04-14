@@ -15,7 +15,7 @@ for letter in word:
     print(letter)
 
 number = input("tell me a number")
-
+contains
 
 
 
