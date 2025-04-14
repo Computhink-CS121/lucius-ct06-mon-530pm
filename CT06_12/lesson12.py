@@ -20,7 +20,7 @@ contains_o = False
 contains_i = False
 for letter in word:
     print(letter)
-
+    if letter =="o": contains 
 
 
 
