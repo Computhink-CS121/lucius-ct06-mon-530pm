@@ -12,7 +12,7 @@ print("Hello from lesson 12")
 
 word = "something"
 for letter3 in word:
-    print()
+    print(letter)
 
 
 
