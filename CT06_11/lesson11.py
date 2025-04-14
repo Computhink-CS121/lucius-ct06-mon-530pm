@@ -1,10 +1,10 @@
-print("Hello from lesson 11")
+# print("Hello from lesson 11")
 
-colour = input("tell me your favourite colour")
-if not (colour == "Green"):
-    print("try again")
-else:
-    print("its green!")
+# colour = input("tell me your favourite colour")
+# if not (colour == "Green"):
+#     print("try again")
+# else:
+#     print("its green!")
 
 
 time = input("tell me the time of day")
