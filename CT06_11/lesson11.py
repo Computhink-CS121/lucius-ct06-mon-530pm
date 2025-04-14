@@ -2,7 +2,7 @@ print("Hello from lesson 11")
 
 colour = input("tell me your favourite colour")
 if not (colour == "Green"):
-    print("try ")
+    print("try again")
 else:
     print("try again")
 
