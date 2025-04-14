@@ -14,7 +14,7 @@ word = "something"
 for letter in word:
     print(letter)
 
-input("tell me a number")
+number = input("tell me a number")
 
 
 
