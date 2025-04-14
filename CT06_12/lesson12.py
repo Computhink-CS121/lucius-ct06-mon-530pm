@@ -17,7 +17,6 @@ for letter in word:
 
 
 
-j
 
 
 
