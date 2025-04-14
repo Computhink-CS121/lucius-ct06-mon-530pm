@@ -14,7 +14,7 @@ word = "something"
 for letter in word:
     print(letter)
 
-word = input()
+word = input("give me a 5 letter word")
 word = "something"
 contains_o = False
 contains_i = False
