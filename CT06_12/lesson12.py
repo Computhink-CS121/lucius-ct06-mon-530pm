@@ -10,25 +10,25 @@ print("Hello from lesson 12")
 
 
 
-word = "something"
-for letter in word:
-    print(letter)
+# word = "something"
+# for letter in word:
+#     print(letter)
 
-word = input("give me a 5 letter word")
-contains_o = False
-contains_i = False
-for letter in word:
-    print(letter)
-    if letter == "o":
-        contains_o = True
-    elif letter == "e":
-        contains_e = True
+# word = input("give me a 5 letter word")
+# contains_o = False
+# contains_i = False
+# for letter in word:
+#     print(letter)
+#     if letter == "o":
+#         contains_o = True
+#     elif letter == "e":
+#         contains_e = True
 
 
-if not(contains_e or contains_o):
-    print("invalid word")
-else:
-    print("good word: " + word)
+# if not(contains_e or contains_o):
+#     print("invalid word")
+# else:
+#     print("good word: " + word)
 
 
 
