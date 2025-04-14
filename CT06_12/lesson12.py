@@ -21,7 +21,7 @@ contains_i = False
 for letter in word:
     print(letter)
     if letter == "o":
-        contains_o = Truek
+        contains_o = True
 
 
 
