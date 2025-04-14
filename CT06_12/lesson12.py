@@ -14,7 +14,7 @@ word = "something"
 for letter in word:
     print(letter)
 
-time = input("tell me day of week")
+input("tell me day of week")
 
 
 
