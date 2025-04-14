@@ -4,7 +4,7 @@ colour = input("tell me your favourite colour")
 if not (colour == "Green"):
     print("try again")
 else:
-    print("try again")
+    print("its green!")
 
 
 
