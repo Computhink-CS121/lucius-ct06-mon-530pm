@@ -7,7 +7,7 @@ else:
     print("its green!")
 
 
-
+time = input("tell me the time of day")
 
 
 
