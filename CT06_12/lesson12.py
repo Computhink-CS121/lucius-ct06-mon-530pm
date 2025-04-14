@@ -23,7 +23,7 @@ for letter in word:
     if letter == "o":
         contains_o = True
     elif letter == "e":
-        contains_e = true
+        contains_e = True
 
 
 
