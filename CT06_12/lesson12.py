@@ -14,7 +14,7 @@ word = "something"
 for letter in word:
     print(letter)
 
-number = input("tell me a number")
+
 word = "something"
 contains_o = False
 contains_i = False
