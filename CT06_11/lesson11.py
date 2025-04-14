@@ -13,7 +13,7 @@ if not (time == "saturday") and (not time == "sunday"):
 else:
     print("hooray! its the weekend no school!")
 
-time = input("tell me day of week")
+time = input("tell me the password")
 
 
 
