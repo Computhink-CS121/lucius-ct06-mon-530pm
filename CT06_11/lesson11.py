@@ -1,7 +1,7 @@
 print("Hello from lesson 11")
 
 
-if not age > green:
+if not colour > green:
     print("try again")
 
 
