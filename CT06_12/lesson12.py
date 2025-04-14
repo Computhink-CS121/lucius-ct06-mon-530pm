@@ -10,8 +10,9 @@ print("Hello from lesson 12")
 
 
 
-word = 
-
+word = "something"
+for letter3 in word:
+    print()
 
 
 
