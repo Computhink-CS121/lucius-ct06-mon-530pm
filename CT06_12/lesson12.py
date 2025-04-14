@@ -11,13 +11,13 @@ print("Hello from lesson 12")
 
 
 word = "something"
-for letter3 in word:
+for letter in word:
     print(letter)
 
 
 
 
-
+j
 
 
 
