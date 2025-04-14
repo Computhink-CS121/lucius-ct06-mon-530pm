@@ -27,8 +27,9 @@ for letter in word:
 
 
 if not(contains_e or contains_o):
-    print()
-
+    print("invalid word")
+else:
+    print("good word: " + word)
 
 
 
