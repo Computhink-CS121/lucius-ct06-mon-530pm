@@ -2,7 +2,7 @@ print("Hello from lesson 11")
 
 
 if not colour > green:
-    print
+    print("try again")
 
 
 
