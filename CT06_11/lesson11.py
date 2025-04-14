@@ -8,7 +8,7 @@
 
 
 time = input("tell me day of week")
-if not (time == "saturday"):
+if not (time == "saturday") and (not dayofweek == "sunday"):
     print("its not the weekend yet!")
 else:
     print("hooray! its the weekend no school!")
