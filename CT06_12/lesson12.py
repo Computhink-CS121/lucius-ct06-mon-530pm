@@ -1,6 +1,6 @@
 print("Hello from lesson 12")
 # recap 
-# ask this 
+# ask this word must contain at least 1 "0"
 
 
 
