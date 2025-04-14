@@ -7,7 +7,7 @@
 #     print("its green!")
 
 
-time = input("tell me the time of day")
+time = input("tell me day of week")
 if not (time == "saturday"):
     print("its not the weekend yet!")
 else:
