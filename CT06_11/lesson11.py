@@ -11,7 +11,7 @@ time = input("tell me the time of day")
 if not (time == "saturday"):
     print("its not the weekend yet!")
 else:
-    print("hooray its ")
+    print("hooray its the weekend no school")
 
 
 
