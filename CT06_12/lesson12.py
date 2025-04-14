@@ -15,7 +15,6 @@ for letter in word:
     print(letter)
 
 word = input("give me a 5 letter word")
-
 contains_o = False
 contains_i = False
 for letter in word:
