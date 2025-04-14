@@ -1,6 +1,6 @@
 print("Hello from lesson 11")
 
-
+colour()
 if not colour > green:
     print("try again")
 
