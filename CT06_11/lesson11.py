@@ -14,7 +14,8 @@ else:
     print("hooray! its the weekend no school!")
 if not (time == "sunday"):
     print("its not the weekend yet!")
-
+else:
+    print("hooray! its the weekend no school!")
 
 
 
