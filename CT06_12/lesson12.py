@@ -47,7 +47,7 @@ while not answer == "":
 
 
 
-    print("you have ordered these items:")
+print("you have ordered these items:")
 print(order)
 
 
