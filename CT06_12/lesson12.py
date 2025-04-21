@@ -51,6 +51,7 @@ print("you have ordered these items:")
 print(order)
 
 
+print(order)
 
 
 
