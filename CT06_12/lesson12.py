@@ -44,13 +44,11 @@ while not answer == "":
 #inside the loop
     order = order + answer + ", "
     answer = input("what is your order?")
+print(i)
 
+for (i) in range:
 
-#outside the loop
-print("you have ordered these items:")
-print(order)
-
-print("you have ordered these items:")
+    print("you have ordered these items:")
 print(order)
 
 
