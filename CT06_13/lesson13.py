@@ -2,7 +2,8 @@ print("Hello from lesson 13")
 
 balance = 1000
 while true:
-    print("welcome to m bank")
+    print("welcome to my bank")
+    print()
 
 
 
