@@ -57,6 +57,7 @@ for count in range(5):
     answer = input("what is 5+3?")
     question = "what is " + str(number1) + "+" + str(number2) + "?"
     answer = input(question)
+    answer = int(answer)
     hidden_answer = number1 + number2
     while not answer == hidden_answer:
         print("wrong! Try again")
