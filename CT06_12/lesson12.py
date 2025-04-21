@@ -52,7 +52,7 @@ from tkinter import Variable
 
 
 import random
-
+number1 = random.randint
 
 
 
