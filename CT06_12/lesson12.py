@@ -54,7 +54,7 @@ from tkinter import Variable
 import random
 number1 = random.randint(1,10)
 number2 = random.randint(1,10)
-answer = input("what is your order? ")
+answer = input("what is 1+3?")
 
 
 
