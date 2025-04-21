@@ -38,7 +38,7 @@ from tkinter import Variable
 # while counter < 50:
 #     increase 
 
-
+order = ""
 input("enter your order")
 
 
