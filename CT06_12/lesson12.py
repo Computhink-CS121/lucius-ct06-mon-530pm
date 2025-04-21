@@ -51,8 +51,8 @@ from tkinter import Variable
 
 
 import random
-
-number1 = random.randint(1,10)
+for count in range(5):
+ number1 = random.randint(1,10)
 number2 = random.randint(1,10)
 answer = input("what is 5+3?")
 question = "what is " + str(number1) + "+" + str(number2) + "3"
