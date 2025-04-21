@@ -6,8 +6,8 @@ while true:
     print("please choose the following")
     print("1. withdraw cash")
     print("2. Deposit cash")
-    print()
-
+    print("3. show balance")
+    
 
 
 
