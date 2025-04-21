@@ -44,9 +44,8 @@ while not answer == "":
 #inside the loop
     order = order + answer + ", "
     answer = input("what is your order?")
-print(i)
 
-for (i) in range:
+
 
     print("you have ordered these items:")
 print(order)
