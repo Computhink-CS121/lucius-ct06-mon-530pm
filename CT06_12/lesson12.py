@@ -40,13 +40,14 @@ from tkinter import Variable
 
 order = ""
 answer = input("what is your order? ")
+while not answer == "":
+#inside the loop
+order = order 
+
 
 #outside the loop
 print("you have ordered these:")
 print(order)
-
-
-
 
 
 
