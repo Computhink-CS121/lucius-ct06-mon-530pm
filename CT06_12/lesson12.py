@@ -34,9 +34,9 @@ print("Hello from lesson 12")
 #     print("good word: " + word)
 
 
-counter = 0
-while counter < 50:
-    increase 
+# counter = 0
+# while counter < 50:
+#     increase 
 
 
 
