@@ -68,7 +68,9 @@ for count in range(5):
 
 
 import random
-
+num = 0
+while not num ==4:
+    num = r
 
 
 
