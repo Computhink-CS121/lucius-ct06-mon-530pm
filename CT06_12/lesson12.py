@@ -47,7 +47,7 @@ while not answer == "":
 
 
 #outside the loop
-print("you have ordered these:")
+print("you have ordered these items:")
 print(order)
 
 
