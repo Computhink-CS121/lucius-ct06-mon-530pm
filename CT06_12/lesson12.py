@@ -39,7 +39,7 @@ from tkinter import Variable
 #     increase 
 
 # order = ""
-# cc
+# answer = input("what is your order? ")
 # while not answer == "":
 # #inside the loop
 #     order = order + answer + ", "
@@ -54,7 +54,7 @@ from tkinter import Variable
 import random
 number1 = random.randint(1,10)
 number2 = random.randint(1,10)
-
+answer = input("what is your order? ")
 
 
 
