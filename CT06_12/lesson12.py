@@ -50,8 +50,8 @@ from tkinter import Variable
 # print(order)
 
 
-
 import random
+
 number1 = random.randint(1,10)
 number2 = random.randint(1,10)
 answer = input("what is 5+3?")
