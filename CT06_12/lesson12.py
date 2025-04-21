@@ -54,13 +54,13 @@ from tkinter import Variable
 import random
 number1 = random.randint(1,10)
 number2 = random.randint(1,10)
-answer = input("what is 1+3?")
+answer = input("what is 5+3?")
 if answer > 8:
     Print("That's correct!")
 
 else:
  print("Wrong! Try again")
-end 
+
 
 
 
