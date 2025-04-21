@@ -70,10 +70,9 @@ from tkinter import Variable
 import random
 num = 0
 while not num == 4:
-    print("hh")
     num = random.randint(1, 6)
     if num == 6: 
-        print()
+        print("Number is 6")
         break
 else:
     print("end of loop bcos of number 4")
