@@ -9,6 +9,6 @@ while true:
     print("3. show balance")
     print("4. Exit")
     reply = input("")
-    reply
+    reply = int(reply)
 
 
