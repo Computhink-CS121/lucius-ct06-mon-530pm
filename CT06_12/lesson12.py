@@ -43,7 +43,7 @@ answer = input("what is your order? ")
 while not answer == "":
 #inside the loop
     order = order + answer + ", "
-    answer = input(w)
+    answer = input("what is your order?")
 
 
 #outside the loop
