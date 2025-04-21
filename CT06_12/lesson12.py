@@ -1,7 +1,7 @@
 from tkinter import Variable
 
 
-print("Hello from lesson 12")
+# print("Hello from lesson 12")
 # recap 
 # ask this word must contain at least 1 "0"
 
