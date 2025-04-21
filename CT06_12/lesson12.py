@@ -43,6 +43,7 @@ answer = input("what is your order? ")
 
 #outside the loop
 print("you have ordered these:")
+print(order)
 
 
 
