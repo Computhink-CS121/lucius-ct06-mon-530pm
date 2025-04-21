@@ -55,10 +55,11 @@ import random
 number1 = random.randint(1,10)
 number2 = random.randint(1,10)
 answer = input("what is 5+3?")
-if answer > 8:
-    Print(str(answer) + "That's correct!")
-
-else:
+question = "what is " + str(number1) + "+" + str(number2) + "3"
+answer = int(input(question))
+hidden_answer = number1 + number2
+while not answer == hidden_answer:
+ 
  print(str(answer) +"Wrong! Try again")
 
 
