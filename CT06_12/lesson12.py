@@ -50,7 +50,7 @@ while not answer == "":
 print("you have ordered these items:")
 print(order)
 
-
+print("you have ordered these items:")
 print(order)
 
 
