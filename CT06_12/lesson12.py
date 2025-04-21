@@ -73,6 +73,7 @@ while not num == 4:
     print("hh")
     num = random.randint(1, 6)
     if num == 6: 
+        print()
         break
 else:
     print("end of loop bcos of number 4")
