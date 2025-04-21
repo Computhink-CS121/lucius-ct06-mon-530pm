@@ -72,7 +72,8 @@ num = 0
 while not num ==4:
     num = random.randint(1, 6)
     if num == 6: break
-    el
+else:
+    
 
 
 
