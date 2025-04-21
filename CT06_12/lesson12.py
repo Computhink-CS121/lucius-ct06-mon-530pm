@@ -39,7 +39,7 @@ print("Hello from lesson 12")
 #     increase 
 
 
-input("")
+input("i like balls")
 
 
 
