@@ -59,7 +59,7 @@ question = "what is " + str(number1) + "+" + str(number2) + "3"
 answer = int(input(question))
 hidden_answer = number1 + number2
 while not answer == hidden_answer:
- 
+ print("")
  print(str(answer) +"Wrong! Try again")
 
 
