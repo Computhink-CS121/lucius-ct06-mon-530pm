@@ -55,7 +55,7 @@ for count in range(5):
  number1 = random.randint(1,10)
 number2 = random.randint(1,10)
 answer = input("what is 5+3?")
-question = "what is " + str(number1) + "+" + str(number2) + "3"
+question = "what is " + str(number1) + "+" + str(number2) 
 answer = int(input(question))
 hidden_answer = number1 + number2
 while not answer == hidden_answer:
