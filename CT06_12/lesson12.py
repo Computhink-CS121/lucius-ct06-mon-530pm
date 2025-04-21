@@ -38,16 +38,16 @@ from tkinter import Variable
 # while counter < 50:
 #     increase 
 
-order = ""
-answer = input("what is your order? ")
-while not answer == "":
-#inside the loop
-    order = order + answer + ", "
-    answer = input("what is your order?")
+# order = ""
+# answer = input("what is your order? ")
+# while not answer == "":
+# #inside the loop
+#     order = order + answer + ", "
+#     answer = input("what is your order?")
 
 
-print("you have ordered these items:")
-print(order)
+# print("you have ordered these items:")
+# print(order)
 
 
 
