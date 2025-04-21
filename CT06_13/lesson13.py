@@ -7,7 +7,7 @@ while true:
     print("1. withdraw cash")
     print("2. Deposit cash")
     print("3. show balance")
-    print("4.")
+    print("4. Exit")
 
 
 
