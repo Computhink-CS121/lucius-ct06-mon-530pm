@@ -71,8 +71,8 @@ import random
 num = 0
 while not num == 4:
     num = random.randint(1, 6)
-    if num == 6: 
-        print("Number is 6")
+    if num == 4: 
+        print("Number is 4")
         break
 else:
     print("end of loop bcos of number 4")
