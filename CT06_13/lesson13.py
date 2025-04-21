@@ -8,7 +8,7 @@ while true:
     print("2. Deposit cash")
     print("3. show balance")
     print("4. Exit")
-    reply
+    reply = input()
 
 
 
