@@ -39,7 +39,7 @@ from tkinter import Variable
 #     increase 
 
 order = ""
-answer = input("what is your order?")
+answer = input("what is your order? ")
 
 
 
