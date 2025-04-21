@@ -52,18 +52,18 @@ from tkinter import Variable
 
 import random
 for count in range(5):
- number1 = random.randint(1,10)
-number2 = random.randint(1,10)
-answer = input("what is 5+3?")
-question = "what is " + str(number1) + "+" + str(number2) 
-answer = int(input(question))
-hidden_answer = number1 + number2
-while not answer == hidden_answer:
- print("wrong! Try again")
- answer = input(question)
- answer = int(answer)#convert to a number
-else:
- print("you are correct!")
+    number1 = random.randint(1,10)
+    number2 = random.randint(1,10)
+    answer = input("what is 5+3?")
+    question = "what is " + str(number1) + "+" + str(number2) 
+    answer = int(input(question))
+    hidden_answer = number1 + number2
+    while not answer == hidden_answer:
+        print("wrong! Try again")
+        answer = input(question)
+        answer = int(answer)#convert to a number
+    else:
+        print("you are correct!")
 
 
 
