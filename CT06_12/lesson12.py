@@ -60,7 +60,8 @@ answer = int(input(question))
 hidden_answer = number1 + number2
 while not answer == hidden_answer:
  print("wrong! Try again")
- answer = input
+ answer = input(question)
+ answer
 
 
 
