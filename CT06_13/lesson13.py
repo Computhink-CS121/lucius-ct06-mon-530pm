@@ -10,5 +10,6 @@ while true:
     print("4. Exit")
     reply = input("")
     reply = int(reply)
-
+    if reply == 4:
+        
 
