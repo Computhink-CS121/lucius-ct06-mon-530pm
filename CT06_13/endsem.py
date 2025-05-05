@@ -9,7 +9,7 @@
 # Write your code here
 
 
-print(1, )
+print(10, )
 
 
 
