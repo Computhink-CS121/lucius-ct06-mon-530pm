@@ -10,7 +10,7 @@
 
 true = 1
 while true(10,10,201):
-   break
+   print(10,10,201)
     
 
 
