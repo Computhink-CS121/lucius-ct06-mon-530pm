@@ -9,7 +9,7 @@
 # Write your code here
 
 
-while (i) in range(10,10,20):
+while (i) in range(10,10,201):
     print(i)
 
 
