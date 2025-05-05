@@ -9,7 +9,7 @@
 # Write your code here
 
 
-print(10, )
+print(10, 1, 2001)
 
 
 
