@@ -8,7 +8,7 @@
 # Note that the numbers do not need to be printed in one line.
 # Write your code here
 
-
+true = 1
 while true(10,10,201):
    break
     
