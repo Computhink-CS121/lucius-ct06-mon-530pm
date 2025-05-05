@@ -9,7 +9,7 @@
 # Write your code here
 
 
-while   (10,10,201):
+while true  (10,10,201):
    
     break
 
