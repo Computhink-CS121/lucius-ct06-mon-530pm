@@ -9,9 +9,9 @@
 # Write your code here
 
 
-while true  (10,10,201):
-   
-    break
+while true(10,10,201):
+   break
+    
 
 
 
