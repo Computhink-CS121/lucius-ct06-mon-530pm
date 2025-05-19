@@ -12,7 +12,8 @@ for i in range(6):
         turtle.left(120)
 
         turtle.right(60)
-        
+
+        window.mainloop()
 
 
 
