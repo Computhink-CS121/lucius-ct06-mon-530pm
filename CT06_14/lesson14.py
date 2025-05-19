@@ -44,7 +44,7 @@ randomy = random.randint(-100,100)
 
 jd = turtle.Turtle()
 jd.up()
-jd
+jd.goto(random)
 
 
 
