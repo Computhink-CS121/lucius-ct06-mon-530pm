@@ -53,7 +53,7 @@ jd.down()
 window.mainloop()
 
 
-newguy = turtle.Turtle
+newguy = turtle.Turtle()
 
 
 
