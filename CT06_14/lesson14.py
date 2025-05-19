@@ -39,7 +39,7 @@ window.mainloop()
 
 import random
 randomx = random.randint(-150,150)
-
+randomy 
 
 
 
