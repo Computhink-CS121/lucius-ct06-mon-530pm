@@ -38,8 +38,8 @@ tom.forward(55)
 window.mainloop()
 
 import random
-randomx = random.randint(-150,150)
-randomy = random.randint(-100,100)
+randomX = random.randint(-150,150)
+randomY = random.randint(-100,100)
 
 
 jd = turtle.Turtle()
