@@ -42,8 +42,8 @@ randomx = random.randint(-150,150)
 randomy = random.randint(-100,100)
 
 
-jd = turtle
-
+jd = turtle.Turtle()
+jd
 
 
 
