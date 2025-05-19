@@ -20,7 +20,7 @@
 
 
 # for i in range(2,22,2):
-#     print (i)
+#      print (i)
 
 
 # for i in range(10,0,-1):
@@ -39,10 +39,10 @@
 
 
 
-word = input("What is your name?") 
-number_n = int(input("How many times would you like to repeat?")) 
-for n in range (69):
-    print(word)
+# word = input("What is your name?") 
+# number_n = int(input("How many times would you like to repeat?")) 
+# for n in range (69):
+#     print(word)
 
 
 

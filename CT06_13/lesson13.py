@@ -13,44 +13,44 @@
 #     if reply == 4:
         
 
-# fruits = ["Apples", "Bananas", "Bread", "carrots", "dates", "eggs", "flour", "grapes", "honey", "herbs", "ice"]
-# print(fruits)
-# fruits[0] = "herbs"
+fruits = ["Apples", "Bananas", "Bread", "carrots", "dates", "eggs", "flour", "grapes", "honey", "herbs", "ice"]
+print(fruits)
+# # fruits[0] = "herbs"
 
-# for poison in fruits:
-#     print(poison)
+# # for poison in fruits:
+# #     print(poison)
 
-# del(fruits[3])
-# print(fruits)
-# fruits.pop(3)
-# print(fruits)
+# # del(fruits[3])
+# # print(fruits)
+# # fruits.pop(3)
+# # print(fruits)
 
-# input("What item have you added to your basket?")
-# for item in groceries:
-#     print( item )
-
-
-# for item in groceries:
-#     print( item )
-# if item == "Apples":
-#    print(item+": I need 5 of these")
-# if item == "carrots":
-#  print(item+": I need 5 of these")
-# if item == "carrots":
-#  print(item+": Get the FarmFresh brand")
-
-# counter = 12
-# while counter < 140:
-#    print(counter)
-counter = counter
+# # input("What item have you added to your basket?")
+# # for item in groceries:
+# #     print( item )
 
 
-secret = "blastoff!"
-answer = input("tell me today's password?")
-if answer == secret:
-   print("its matched")
-else:
-   print("go away i will tell the police")
+# # for item in groceries:
+# #     print( item )
+# # if item == "Apples":
+# #    print(item+": I need 5 of these")
+# # if item == "carrots":
+# #  print(item+": I need 5 of these")
+# # if item == "carrots":
+# #  print(item+": Get the FarmFresh brand")
+
+# # counter = 12
+# # while counter < 140:
+# #    print(counter)
+# counter = counter
+
+
+# secret = "blastoff!"
+# answer = input("tell me today's password?")
+# if answer == secret:
+#    print("its matched")
+# else:
+#    print("go away i will tell the police")
 
 
 
