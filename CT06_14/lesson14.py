@@ -27,8 +27,8 @@ daisy.colour("red")
 daisy.forward(50)
 
 tom = turtle.Turtle
-tom.shape("c")
-
+tom.shape("circle")
+tom
 
 
 
