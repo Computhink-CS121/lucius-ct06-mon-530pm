@@ -45,12 +45,12 @@ randomY = random.randint(-100,100)
 jd = turtle.Turtle()
 jd.up()
 jd.goto(randomX, randomY)
-jd.write( str(randomX) + "," + str(randomY))
+jd.write( str(randomX) + "," + str(randomY)  )
 
 
+jd.down()
 
-
-
+window.mainloop()
 
 
 
