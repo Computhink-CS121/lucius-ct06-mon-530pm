@@ -16,41 +16,41 @@
 # window.mainloop()
 
 
-import turtle
+# import turtle
 
-window = turtle.Screen()
-window.setup(width=600, height=400)
+# window = turtle.Screen()
+# window.setup(width=600, height=400)
 
-daisy = turtle.Turtle()
-daisy.shape("turtle")
-daisy.color("red")
-daisy.forward(50)
+# daisy = turtle.Turtle()
+# daisy.shape("turtle")
+# daisy.color("red")
+# daisy.forward(50)
 
-tom = turtle.Turtle()
-tom.shape("circle")
-tom.color("green")
-tom.up()
-tom.goto(-50, -50)
-tom.down()
-tom.forward(55)
-
-
-window.mainloop()
-
-import random
-randomX = random.randint(-150,150)
-randomY = random.randint(-100,100)
+# tom = turtle.Turtle()
+# tom.shape("circle")
+# tom.color("green")
+# tom.up()
+# tom.goto(-50, -50)
+# tom.down()
+# tom.forward(55)
 
 
-jd = turtle.Turtle()
-jd.up()
-jd.goto(randomX, randomY)
-jd.write( str(randomX) + "," + str(randomY)  )
+# window.mainloop()
+
+# import random
+# randomX = random.randint(-150,150)
+# randomY = random.randint(-100,100)
 
 
-jd.down()
+# jd = turtle.Turtle()
+# jd.up()
+# jd.goto(randomX, randomY)
+# jd.write( str(randomX) + "," + str(randomY)  )
 
-window.mainloop()
+
+# jd.down()
+
+# window.mainloop()
 
 
 newguy = turtle.Turtle()
