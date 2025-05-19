@@ -8,7 +8,8 @@ window.setup(width=600, height=400)
 
 for i in range(6):
     for inside in range(3):
-        turtle
+        turtle.forward(55)
+        
 
 
 
