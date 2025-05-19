@@ -1,19 +1,19 @@
-print("Hello from lesson 14")
+# print("Hello from lesson 14")
 
 
-import turtle
+# import turtle
 
-window = turtle.Screen()
-window.setup(width=600, height=400)
+# window = turtle.Screen()
+# window.setup(width=600, height=400)
 
-for i in range(6):
-    for inside in range(3):
-        turtle.forward(55)
-        turtle.left(120)
+# for i in range(6):
+#     for inside in range(3):
+#         turtle.forward(55)
+#         turtle.left(120)
 
-    turtle.right(60)
+#     turtle.right(60)
 
-window.mainloop()
+# window.mainloop()
 
 
 import turtle
