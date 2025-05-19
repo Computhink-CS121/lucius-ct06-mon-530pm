@@ -38,7 +38,7 @@ tom.forward(55)
 window.mainloop()
 
 import random
-randomx = random.randint(-)
+randomx = random.randint(-150,150)
 
 
 
