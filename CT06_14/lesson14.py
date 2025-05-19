@@ -55,7 +55,7 @@ window.mainloop()
 
 newguy = turtle.Turtle()
 newguy.seth("180")
-newguy
+newguy.forward
 
 
 
