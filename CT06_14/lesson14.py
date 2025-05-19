@@ -37,7 +37,7 @@ tom.forward(55)
 
 window.mainloop()
 
-
+import random
 
 
 
