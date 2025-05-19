@@ -4,7 +4,7 @@ print("Hello from lesson 14")
 import turtle
 
 window = turtle.screen()
-window.setup(width=600, height=)
+window.setup(width=600, height=400)
 
 
 
