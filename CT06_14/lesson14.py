@@ -30,7 +30,7 @@ tom = turtle.Turtle
 tom.shape("circle")
 tom.color("green")
 tom.up()
-tom.goto(-50)
+tom.goto(-50, -50)
 
 
 
