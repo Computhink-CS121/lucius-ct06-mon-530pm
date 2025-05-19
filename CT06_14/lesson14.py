@@ -54,7 +54,7 @@ window.mainloop()
 
 
 newguy = turtle.Turtle()
-
+newguy.seth
 
 
 
