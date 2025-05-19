@@ -31,6 +31,7 @@ tom.shape("circle")
 tom.color("green")
 tom.up()
 tom.goto(-50, -50)
+tom.down
 
 
 
