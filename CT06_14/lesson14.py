@@ -35,7 +35,7 @@ tom.down()
 tom.foward(55)
 
 
-
+window.mainloop()
 
 
 
